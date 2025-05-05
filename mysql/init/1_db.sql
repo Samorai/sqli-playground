@@ -5,3 +5,4 @@ CREATE TABLE IF NOT EXISTS sqli.users(
 );
 
 INSERT INTO sqli.users VALUES (1, 'admin', 'p4ssw0rd');
+INSERT INTO sqli.users VALUES (2, 'guest', 'guest');

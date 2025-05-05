@@ -1,0 +1,7 @@
+*.log
+.idea
+.vscode
+.git
+.gitignore
+.dockerignore
+.DS_Store
